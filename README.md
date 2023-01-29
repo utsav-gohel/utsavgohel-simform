@@ -3,14 +3,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavgohel-simform&label=Profile%20views&color=0e75b6&style=flat" alt="utsavgohel-simform" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utsavgohel-simform" alt="utsavgohel-simform"/></a> </p>
 
-- 🔭 I’m currently working on ...Node.js
-- 🌱 I’m currently learning ...Full-Stack Development
-- 👯 I’m looking to collaborate on ...Algo Trading APIs
-- 🤔 I’m looking for help with ... AWS
-- 💬 Ask me about ...Anything
-- 📫 How to reach me ... utsavgohel2002@gmail.com
-- 😄 Pronouns: ... He/Him
-- <a href="https://www.codechef.com/users/utsavgohel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="utsavgohel" height="30" width="40" /></a>
+- 🔭 I’m Currently Working On Node.js.
+- 🌱 I’m Currently Learning Full-Stack Development.
+- 👯 I’m Looking To Collaborate On Algo Trading APIs.
+- 🤔 I’m Looking For Help With AWS.
+- 💬 Ask Me About Anything.
+- 📫 How To Reach Me?? ... utsavgohel2002@gmail.com
+- 😄 Pronouns : ... He/Him.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
